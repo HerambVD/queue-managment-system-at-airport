@@ -1,0 +1,33 @@
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background-image:url(batu333.jpg);
+    color:black;
+    min-height: 250px;
+    background-attachment:fixed;
+    
+}
+
+#messageBox
+{
+    margin-top: 15px;
+    background-color: rgb(217,237,247);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#timerbox
+{
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: lightpink;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#timer
+{
+    font-size: 50px;
+}
