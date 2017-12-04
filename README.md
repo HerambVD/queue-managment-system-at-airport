@@ -1,4 +1,4 @@
-- Projrct was selected for Smart India Hackthon 2017
+- Project was selected for Smart India Hackthon 2017
 - web based project 
 - Php, Bootstrap, Ibeacons, JS, HTML5
 - Reduce the time consumed by various queues at the airport
