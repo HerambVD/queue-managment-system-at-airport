@@ -1,6 +1,5 @@
-- Project was selected for Smart India Hackthon 2017
-- Web Based project 
-- PHP, Bootstrap, Ibeacons, JS, HTML5
-- Reduce the time consumed by various queues at the airport
-- by adding passengers to the virtual queue so that they can do their other chores in mean time 
-- And to notify passengers if their turn is next
+# Smart India Hackathon 2018
+Gram Panchayat Adoption advisor
+<p>This Idea was selected for Smart India Hackathon 2018.</p>
+<p>Used technology stack :- PHP, Bootstrap, Ibeacons, JS, HTML5, MySQL</p>
+<p>Facilitating passengers on airport by providing the virtual queue system and thereby reducing the waiting time in various queues at airport.</p>
